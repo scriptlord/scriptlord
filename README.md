@@ -1,4 +1,4 @@
-### Here is what I'm working on 👋
+### About Me 👋
 A Full Stack Software Engineer with 2 years of experience developing web applications using different technologies (HTML5, CSS3, bootstrap, javascript/typescript, react, Nodejs, Expressjs, Mangodb, ,postgres, Mysql etc.
 
  ## How I approach my client/employer:
