@@ -10,5 +10,5 @@ I choose to understand your product needs. Translate them to code. Choose the be
 - 🤔 I’m looking for network to get an internship/job in a remote company 
 - 💬 Ask me about the technologies I use e.g. ReactJS, JavaScript, TypeScript, PostGRES(SQL), Docker, MongoDB and GraphQL
 - 📫 How to reach me: [Website](https://folusobuilds.netlify.app)  [Email](folusolibrary@gmail.com) 
-- 😄 Pronouns: He/His
+- 😄 Pronoun: He/His
 - ⚡ Fun fact: ... I mind travel to beautiful places on Earth
