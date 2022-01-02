@@ -6,7 +6,7 @@
 - 👯 I’m looking to do more collaboration with the following tools ReactJS, TypeScript and SQL
 - 🤔 I’m looking for network to get an internship/job in a remote company 
 - 💬 Ask me about the technologies I use e.g. ReactJS, JavaScript, TypeScript, PostGRES(SQL), Docker, MongoDB and GraphQL
-- 📫 How to reach me: [Website](https://folusobuilds.netlify.app) [Email](folusolibrary@gmail.com) [Phone](+234 807 651 8353)
+- 📫 How to reach me: [Website](https://folusobuilds.netlify.app) [Email](folusolibrary@gmail.com) 
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ... I mind travel to beautiful places on Earth
 -->
