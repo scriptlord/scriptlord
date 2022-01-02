@@ -3,7 +3,7 @@ A Full Stack Software Engineer with 2 years of experience developing web applica
 ## (HTML5, CSS3, bootstrap, javascript/typescript, react, Nodejs, Expressjs, Mangodb, ,postgres, SQL etc.)
 
  ## How I approach my client/employer:
-I choose to understand your product needs. Translate them to code. Choose the best technology for you. Give you a working solutions where your users/clients would love.
+## I choose to understand your product needs. Translate them to code. Choose the best technology for you. Give you a working solutions where your users/clients would love.
 
 - 🤔 I’m looking for network to get an internship/job in a remote company 
 - 👯 I’m looking to collaborate/work on building scalable projects with more than 100,000 users
