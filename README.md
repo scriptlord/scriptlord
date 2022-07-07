@@ -5,7 +5,7 @@ A Full Stack Software Engineer with 2 years of experience developing web applica
  ## How I approach my client/employer:
 I choose to understand your product needs. Translate them to code. Choose the best technology for you. Give you a working solutions where your users/clients would love.
 
-- 🤔 I’m looking for network to get an internship/job in a remote company 
+- 🤔 I’m looking for network to get a job in a remote company 
 - 👯 I’m looking to collaborate/work on building scalable projects with more than 100,000 users
 - 👯 I’m looking to do more work with the following tools ReactJS, TypeScript, SQL etc
 - 💬 Ask me about the technologies I use e.g. ReactJS, JavaScript, TypeScript, PostGRES(SQL), Docker, MongoDB and GraphQL
