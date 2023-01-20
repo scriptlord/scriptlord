@@ -6,11 +6,13 @@ Software Engineer | Mentor | Teacher
 
 Software engineer by day, meme lord by night. I turn coffee into code and bugs into features. I may not have superpowers, but I can debug like a boss. I believe that laughter is the best debugging tool and that the best way to predict the future is to code it. Let's build something great together!
 
-* 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [foluso.kayode1@gmail.com](mailto:foluso.kayode1@gmail.com)
-* 🧠  I'm learning AWS Cloud Computing
+* 🌍  I'm based in Lagos, Nigeria
+* ✉️  You can contact me at [foluso.kayode1@gmail.com](mailto:foluso.kayode1@gmail.com)
+* 🧠  I'm learning AWS Cloud Computing
+* ⚡  To build something that would outlive me 
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -31,9 +33,11 @@ Software engineer by day, meme lord by night. I turn coffee into code and bugs i
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/scriptlord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/folusokayodefavour/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@folusolibrary" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/folusokayode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -43,8 +47,3 @@ Software engineer by day, meme lord by night. I turn coffee into code and bugs i
 <a href="http://www.github.com/scriptlord"><img src="https://github-readme-streak-stats.herokuapp.com/?user=scriptlord&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/scriptlord"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=scriptlord&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/scriptlord" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptlord&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
