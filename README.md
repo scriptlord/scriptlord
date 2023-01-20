@@ -7,9 +7,7 @@ Software Engineer | Mentor | Teacher
 Software engineer by day, meme lord by night. I turn coffee into code and bugs into features. I may not have superpowers, but I can debug like a boss. I believe that laughter is the best debugging tool and that the best way to predict the future is to code it. Let's build something great together!
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://www.folubuilds.tech)
 * ✉️  You can contact me at [foluso.kayode1@gmail.com](mailto:foluso.kayode1@gmail.com)
-* 🚀  I'm currently working on [Algofanatics and Twitter Spaces on AWS](http://www.algofanatics.com)
 * 🧠  I'm learning AWS Cloud Computing
 
 ### Skills
