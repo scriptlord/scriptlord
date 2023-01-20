@@ -9,7 +9,7 @@ Software engineer by day, meme lord by night. I turn coffee into code and bugs i
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [foluso.kayode1@gmail.com](mailto:foluso.kayode1@gmail.com)
 * 🧠  I'm learning AWS Cloud Computing
-* ⚡  To build something that would outlive me 
+* ⚡  To build something that would outlive me
 
 ### Skills
 
@@ -41,8 +41,6 @@ Software engineer by day, meme lord by night. I turn coffee into code and bugs i
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/scriptlord"><img src="https://github-readme-stats.vercel.app/api?username=scriptlord&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="scriptlord's GitHub stats" /></a>
 
 <a href="http://www.github.com/scriptlord"><img src="https://github-readme-streak-stats.herokuapp.com/?user=scriptlord&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
