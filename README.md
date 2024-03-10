@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Foluso Kayode
 =====================================================================================================================================
 
-Software Engineer | AWS Enthusiast | Mentor
+Software Engineer | AWS Architect Certified | Mentor
 ------------------------------------
 
 Software engineer by day, meme lord by night. I turn coffee into code and bugs into features. I may not have superpowers, but I can debug like a boss. I believe that laughter is the best debugging tool and that the best way to predict the future is to code it. Let's build something great together!
